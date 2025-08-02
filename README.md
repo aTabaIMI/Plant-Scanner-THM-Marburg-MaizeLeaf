@@ -4,7 +4,7 @@ This repository provides a curated subset of the MaizeLeaf Health Dataset, a vid
 This dataset is shared strictly for non-commercial academic research. Use in publications, educational activities, or open-source research tools is permitted provided proper citation is given. Redistribution, commercial application, or incorporation into proprietary systems is prohibited without explicit written consent from the principal investigators.
 The dataset is provided as partial release with full data availability:
 Sample Subset: Limited representative samples are available for immediate download to enable methodology validation.
-Full Dataset: Available upon formal request to support collaborative academic research. To request access, contact the corresponding contacts either Dr. Seyed Amir Hossein Tabatabaei (amir.taba1.61@gmail.com) or Dr. Marvin Christ (marvinchrist1@gmx.de) or directly to PI (provided below), including:
+Full Dataset: Available upon formal request to support collaborative academic research. To request access, please send an email to the corresponding contacts either Dr. Seyed Amir Hossein Tabatabaei (amir.taba1.61@gmail.com) or Dr. Marvin Christ (marvinchrist1@gmx.de) or directly to PI (provided below), including:
 
 1. Institutional affiliation
 2. Brief research description
