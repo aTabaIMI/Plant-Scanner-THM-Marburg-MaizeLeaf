@@ -9,3 +9,9 @@ Full Dataset: Available upon formal request to support collaborative academic re
 1. Institutional affiliation
 2. Brief research description
 3. Data use agreement acknowledgment
+## How to Cite This Dataset
+
+When referencing any portion of this dataset in publications or research, 
+please use the following minimal citation format:
+
+ **MaizeLeaf Health Dataset. [Repository Platform Name]. [Persistent URL]**
