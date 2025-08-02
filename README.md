@@ -15,3 +15,8 @@ When referencing any portion of this dataset in publications or research,
 please use the following minimal citation format:
 
  **MaizeLeaf Ustilago Maydis Dataset. Repository name: PlantScannrDataset, https://github.com/aTabaIMI/PlantScannerDataset/tree/main**
+### Research Team
+**Primary Investigators:**  
+- Corresponding research team headed by Prof. Dr. Keywan Sohrabi, Faculty of Health Sciences, Technische Hochschule Mittelhessen  
+- Corresponding research team headed by Prof. Dr. Gert Bange, Center for Synthetic Microbiology (SYNMIKRO) and Department of Chemistry, University of Marburg  
+
